@@ -27,6 +27,6 @@ let package = Package(
         .target(
             name: "SwiftMessages",
             dependencies: [],
-            path: "Sources")
+            path: "SwiftMessages")
     ]
 )
